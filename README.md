@@ -1,6 +1,6 @@
-# Draft
+# JVM
 
-`Draft` - This image is currently work in progess.
+This image is for development for the JVM.
 
 ## Configuration
 
@@ -9,3 +9,7 @@ Base: `ghcr.io/vscode-devcontainers/base:main` - [details](https://github.com/vs
 User: `vscode` (no sudo)
 
 ### Installed Software
+* unzip
+* zip
+* findutils
+* sdkman
